@@ -2,5 +2,15 @@ body  {
 	background-color: #424E61;
 	color: white;
     background-color: black;
+	font-family: "Savate", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
 }
 
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
