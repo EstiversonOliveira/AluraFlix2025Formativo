@@ -1,3 +1,4 @@
+
 body  {	
 	background-color: #424E61;
 	color: white;
@@ -7,6 +8,10 @@ body  {
   	font-weight: 400;
   	font-style: normal;
 	margin: 0px;
+}
+
+.chamada-texto {
+	margin-right: 5%;
 }
 
 h1 {
@@ -22,6 +27,14 @@ header {
 
 p {
     font-size: 20px;
+}
+
+section {
+	background: rgb(184, 156, 213);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
 }
 
 
