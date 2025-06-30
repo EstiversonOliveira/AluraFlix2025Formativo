@@ -29,12 +29,27 @@ p {
     font-size: 20px;
 }
 
-section {
-	background: rgb(184, 156, 213);
+.chamada {
+	background: rgb(244, 98, 98);
 	padding-bottom: 80px;
 	padding-top: 80px;
 	display: flex;
 	justify-content: center;
+}
+
+img {
+	height: 200px;
+}
+
+.categoria-videos {
+	display: flex;
+	overflow-x: auto;
+	gap: 10px;
+}
+
+.categoria {
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 
